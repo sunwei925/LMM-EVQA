@@ -1,0 +1,2 @@
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id='DAMO-NLP-SG/VideoLLaMA2.1-7B-AV', repo_type='model', local_dir = '/root/workspace/cvuaggk7v38s73dgjft0/videollama2weights', resume_download=True, local_dir_use_symlinks=False)
