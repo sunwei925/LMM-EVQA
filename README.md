@@ -2,16 +2,13 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sunwei925/LMM-EVQA) [![](https://img.shields.io/github/stars/sunwei925/LMM-EVQA)](https://github.com/sunwei925/LMM-EVQA)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/sunwei925/LMM-EVQA)
 [![arXiv](https://img.shields.io/badge/build-paper-red?logo=arXiv&label=arXiv)](https://arxiv.org/abs/2508.02516)
+[![Challenge](https://img.shields.io/badge/Challenge-VQualA%202025-blue)](https://codalab.lisn.upsaclay.fr/competitions/23005)
 
 <div align="center">
 
 🏆 **🥇 Winner Solution** for [ICCV VQualA 2025 EVQA-SnapUGC Challenge](https://codalab.lisn.upsaclay.fr/competitions/23005) at [VQualA 2025](https://vquala.github.io/) Workshop @ ICCV 2025
 
 **Official Implementation** for **Engagement Prediction of Short Videos with Large Multimodal Models**
-
-[![Paper](https://img.shields.io/badge/Paper-ArXiv-red)](https://arxiv.org/abs/2508.02516)
-[![Challenge](https://img.shields.io/badge/Challenge-VQualA%202025-blue)](https://codalab.lisn.upsaclay.fr/competitions/23005)
-
 </div>
 
 ---
@@ -58,8 +55,8 @@ Both models demonstrate competitive performance against state-of-the-art baselin
 ### 📥 Download Links
 
 #### 📄 CSV Files
-- **Training CSV**: [Google Drive](https://drive.google.com/file/d/1Mv5Esq5gGuxRTayabRUb5NmHwEN3JdbD/view) | [Baidu Yun](https://pan.baidu.com/s/1iY7qUfqivYzUqUID501dKQDpI3NQil7y/view)
-- **Validation CSV**: [Google Drive](https://drive.google.com/file/d/1iY7qUfqivYzUqUID501dKQDpI3NQil7y/view) | [Baidu Yun](https://pan.baidu.com/s/1iY7qUfqivYzUqUID501dKQDpI3NQil7y/view)
+- **Training CSV**: [Google Drive](https://drive.google.com/file/d/1Mv5Esq5gGuxRTayabRUb5NmHwEN3JdbD/view) 
+- **Validation CSV**: [Google Drive](https://drive.google.com/file/d/1iY7qUfqivYzUqUID501dKQDpI3NQil7y/view)
 
 #### 🎥 Video Files
 - **Training Videos**: [Google Drive](https://drive.google.com/drive/folders/134gJflcaQ7Dhg5EUKfLdeXW61fj1fiNo?usp=share_link) | [Baidu Yun](https://pan.baidu.com/s/18nk2BzrykyHusfTDX5w7xg?pwd=edts) (extraction code: `edts`)
